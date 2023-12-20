@@ -6,6 +6,7 @@ pub mod day2;
 pub mod day3;
 pub mod day4;
 pub mod day5;
+pub mod day6;
 pub mod util;
 use crate::util::io::read_aoc_lines;
 // use crate::util::io::read_and_transform;
